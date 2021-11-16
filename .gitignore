@@ -1,0 +1,9 @@
+# common
+.idea/
+target/
+*.iml
+*.class/
+*.sh
+logs/
+GClog/
+.DS_Store
