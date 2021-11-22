@@ -59,3 +59,7 @@
 
 * Integer.parseInt() 不认识补码，所以要传正整数原码，如要表是负数，可以是负数的整数部分前面加-
   * Integer.parseUnsignedInt 认识补码，能解析出负数。
+
+* Brian Kernighan 算法
+  * 该算法可以被描述为这样一个结论：记 f(x) 表示 x 和 x-1 进行与运算所得的结果（即 f(x)=x & (x−1)），那么f(x) 恰为 x 删去其二进制表示中最右侧的 1 的结果。
+  * ![img.png](img.png)
