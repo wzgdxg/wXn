@@ -17,4 +17,5 @@
 [查找重复数](../FindPair.java)  
 [查找落单数](../FindAlone.java)  
 [查找两个落单数](../FindTwoAlone.java)
-[找连续自然数中跑丢的两个数](../FindTwoRunAway.java)  
+[找连续自然数中跑丢的两个数](../FindTwoRunAway.java)
+[找连续自然数中跑丢的三个数](../FindThreeAlone.java)  
